@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitRepoTest", "GitRepoTest\GitRepoTest.csproj", "{7CF58DFD-119D-455E-B1DA-0EF5B2AD8003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CF58DFD-119D-455E-B1DA-0EF5B2AD8003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF58DFD-119D-455E-B1DA-0EF5B2AD8003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF58DFD-119D-455E-B1DA-0EF5B2AD8003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF58DFD-119D-455E-B1DA-0EF5B2AD8003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B260B85B-AC43-460E-8B98-2F1710C21E68}
+	EndGlobalSection
+EndGlobal
